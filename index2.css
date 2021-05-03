@@ -1,0 +1,44 @@
+.main {
+    display: flex;
+}
+
+.inicio {
+    
+    align-content: flex-start;
+    align-items: stretch;
+    position: static;
+    flex-direction: column;
+}
+
+
+
+.right {
+   
+    background: #efefef; 
+    border: 1px solid #999;
+     
+    align-content: flex-end ;
+    position: static;
+    align-items: stretch;
+    flex-direction: column;
+  
+   
+ }
+
+ .inicio h4 {
+
+    color: #929292;
+    }
+
+
+
+.element {
+    display: inline-table;
+    width: 100px;
+    height: 100px;
+   padding: auto;
+   
+
+}
+
+
